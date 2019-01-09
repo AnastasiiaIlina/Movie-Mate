@@ -1,0 +1,6 @@
+
+.App__cards-container {
+    width: 62%;
+    display: flex;
+    flex-wrap: wrap;
+}

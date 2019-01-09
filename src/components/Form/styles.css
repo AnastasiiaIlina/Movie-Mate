@@ -1,0 +1,33 @@
+.Form {
+    width: 35%;
+    padding: 16px;
+    border-radius: 2px;
+    -webkit-box-shadow: 0 0 2px 2px rgba(33,33,33,.5);
+    box-shadow: 0 0 2px 2px rgba(33,33,33,.5);
+}
+
+.Form input,
+.Form textarea,
+.Form select {
+    width: 100%;
+}
+
+.Form__button {
+    outline: 0;
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 2px;
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 16px;
+    background-color: #3f51b5;
+    cursor: pointer;
+    -webkit-box-shadow: 0 3px 3px 0 rgba(0,0,0,.3);
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.3);
+    -webkit-transition: all .2s linear;
+    -o-transition: all .2s linear;
+    transition: all .2s linear;
+    margin: 16px 0;
+}
+
+

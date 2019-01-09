@@ -1,0 +1,14 @@
+.App {
+  width: 1280px;
+  margin: 0 auto;
+  font-family: sans-serif;
+  color: #555;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+

@@ -1,0 +1,12 @@
+.Nav__item {
+    display: inline-block;
+    list-style: none;
+    margin-right: 30px;
+}
+
+.Nav__item > a {
+    font-size: 22px;
+    font-weight: 700;
+    text-decoration: none;
+    color: #555;
+}
